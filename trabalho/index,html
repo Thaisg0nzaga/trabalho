@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Um bot que irá moderar e deixar a sua comunidade segura de um jeito fácil!">
+  <title>Portifolio-atividade</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+  <header class="cabecalho">
+   <nav class="cabecalho-menu">
+      <a class="cabecalho-menu-item" href="https://www.instagram.com">Instagram</a>
+      <a class="cabecalho-menu-item" href="https://github.com/Thaisg0nzaga">GitHub</a>
+      <a class="cabecalho-menu-item" href="https://www.whatsapp.com/?lang=pt_BR">WhatsApp</a>
+      </nav>
+  </header>
+
+  <main class="conteudo">
+    <section class="conteudo-principal">
+      <div class="conteudo-principal-escrito">
+        <h1 class="conteudo-principal-escrito-titulo">Bem Vindo ao meu portifólio!</h1>
+        
+      </div>
+      <img class="conteudo-principal-imagem"src="Ellipse 1linda.svg" alt="foto de perfil">
+    </section>
+
+    <section class="conteudo-secundario">
+      <h3 class="conteudo-secundario-titulo">Sobre mim</h3>
+      <p class="conteudo-secundario-paragrafo"> Me chamo Thaís, tenho 19 anos, atualmente estudo na Universidade de Vila Velha no curso de Ciências da Computação </p>
+      <p class="conteudo-secundario-paragrafo">  A busca constante por conhecimento e a aplicação prática desse conhecimento para criar soluções inovadoras que impulsionam minha jornada..</p>
+      <p class="conteudo-secundario-paragrafo">Estou entusiasmado com o que o futuro reserva, à medida que continuo a explorar as infinitas possibilidades. 
+        <p class="conteudo-secundario-paragrafo">Uma das opções que mais me atrai é o desenvolvimento de software, onde posso criar aplicativos e sistemas que resolvam desafios do mundo real. 
+          <p class="conteudo-secundario-paragrafo">Além disso, a inteligência artificial, a segurança da informação e a análise de dados também são áreas que me fascinam, oferecendo oportunidades empolgantes para inovação e impacto no campo da tecnologia. 
+
+        
+    </p>
+    </section>
+  </main>
+
+  
+</body>
+
+</html>
